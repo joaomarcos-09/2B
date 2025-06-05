@@ -1,11 +1,11 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root{
     --cor-principal: #6e859f; 
     --cor-secundaria: #284260;
-     
+    --cor-destaque: #6oe329;
+
+
 }
 
 
@@ -16,6 +16,9 @@
 
 
 
+
+
 .body {
+    font-family: ""Josefin Sans", sans-serif;";
     background-color: purple;
 }
