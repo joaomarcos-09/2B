@@ -1,4 +1,10 @@
 body{
+     {
+  font-family: "Overpass", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
     background-color: rgb(117, 136, 230);
 }
 footer{
