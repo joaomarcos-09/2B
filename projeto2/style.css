@@ -5,5 +5,12 @@ footer{
     background-color: black;
     color:  white;
     bottom:0;
-    text-align
+    position: fixed;
+    width: 100%;
+
+}
+footer p{
+    text-align:right;
+    font-size: 0.8rem;
+    height: 1rem;
 }
