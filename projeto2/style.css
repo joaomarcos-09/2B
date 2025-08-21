@@ -1,3 +1,10 @@
+:root {
+    --text-color: #fff;
+    --card-font-color: #11e627;
+    --card-back-color: #708ce8;
+
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Overpass:ital,wght@0,100..900;1,100..900&family=Unbounded:wght@200..900&display=swap');
 
 
@@ -7,7 +14,7 @@ body{
 }
    
 footer{
-    background-color: rgb(96, 155, 200);
+    background-color: #244374;
     color:  white;
     bottom:0;
     position: fixed;
@@ -32,6 +39,8 @@ footer p{
  }
 
  .card__content h3 {
+    color: var(--text-color);
+    border: 1px solid var(--text-color);
     text-align: left;
     padding: 0.6rem;
     margin: 0.5rem;
