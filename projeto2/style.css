@@ -31,7 +31,7 @@ footer p{
     height: 100%;
  }
 
- .card_content h3 {
+ .card__content h3 {
     text-align: left;
     padding: 0.6rem;
     margin: 0.5rem;
