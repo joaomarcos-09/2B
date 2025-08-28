@@ -41,6 +41,7 @@ footer p {
     margin: 1rem;
     background-color: var(--card-font-color);
     height: 100%;
+    text-align: center;
     transform-style: preserve-3d;
     transition: transform 400ms ease-in-out;
 }
@@ -83,7 +84,7 @@ footer p {
 .card__content__answer,
 .card__content__question{
      backface-visibility: hidden;
-     
+     position: absolute;
      height: 100%;
      width: 100%;
 
