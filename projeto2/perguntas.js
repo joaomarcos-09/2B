@@ -13,8 +13,8 @@ criaCartao (
 
    
 criaCartao (
-conteudo,
-pergunta,
-resposta
+'curiosidades',
+'Frutiger Aero é um design para o futuro?',
+'Originalmente, era uma visão do futuro que apareceu na internet, com subgêneros como Frutiger Metro, Technozen e Frutiger Eco. '
 )
     
