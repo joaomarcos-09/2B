@@ -5,12 +5,12 @@ function criaCartao (categoria,pergunta,resposta) {
     cartao.className = 'cartao'
     cartao.innerHTML = `
      <div class="cartao__conteudo">
-        <h3>Curiosidades</h3>
+     <h3>${categoria}</he3
          <div class="cartao__conteudo__pergunta">
-              <p>Você sabe porque o frutiger-aero tem essa estetica?</p>
+              <p>${pergunta}</p>
          </div>
         <div class="cartao__conteudo__resposta">
-            <p>Ele tem essa estetica pois queriam simular um futuro "perfeito" com elementos da natureza.</p>
+            <p>${resposta}</p>
         </div>
      </div>
        `
