@@ -46,7 +46,7 @@ criaCartao (
 
 criaCartao (
 'curiosidades',
-'Quais são as características visuais?'
+'Quais são as características visuais?',
 'Utiliza elementos translúcidos, texturas de vidro, cores suaves e um toque de realismo, com um foco em serem claras e funcionais '
 )
 
